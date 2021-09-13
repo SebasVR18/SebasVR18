@@ -25,9 +25,9 @@
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=Cplusplus&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -35,7 +35,7 @@
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Notion&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Notion-informational?style=flat&logo=Notion&logoColor=white&color=4AB197)
 
 </details>
 
